@@ -1,34 +1,14 @@
-👋 Hi, I'm Pradhyumna Atmakur
-Full Stack Developer passionate about building efficient, user-centric web applications. I specialize in React.js, Node.js, and modern web development technologies.
-🚀 Featured Projects
-Readlyt
-A revolutionary speed reading application that transforms reading experience through single-word display technology.
+# 👋 Hi, I'm Pradhyumna Atmakur
 
-🔍 Built with React.js, Vite, and Tailwind CSS
-📚 Supports multiple file formats (TXT, PDF, DOCX)
-⚡ Customizable reading speed and progress tracking
-🎯 Fullscreen mode for immersive reading experience
+💻 Full Stack Developer | Building Web Applications
 
-Fast Images
-Modern image compression web application with powerful batch processing capabilities.
+## 🚀 Projects
+- [Readlyt](https://github.com/Pradhyumnaatmakur/readlyt) - Speed reading app with single-word display technology
+- [Fast Images](https://github.com/Pradhyumnaatmakur/fastimages) - Image compression web app with batch processing
+- [X Clone](https://github.com/Pradhyumnaatmakur/x-twitter-clone) - Social media platform built with MERN stack
 
-🖼️ Supports multiple image formats (WebP, JPEG, PNG)
-📦 Efficient batch processing with progress tracking
-💾 Smart caching system for optimized performance
-⚡ Automatic optimization detection
+## 🛠️ Tech Stack
+React.js • Node.js • MongoDB • Express.js • Tailwind CSS • Vite
 
-X Clone
-Full-featured social media platform built with the MERN stack.
-
-🔒 Secure JWT authentication
-📱 Real-time notifications
-🖼️ Image uploads via Cloudinary
-♾️ Infinite scroll for enhanced UX
-
-🛠️ Tech Stack
-javascriptCopyconst techStack = {
-  frontend: ['React.js', 'Tailwind CSS', 'Vite'],
-  backend: ['Node.js', 'Express.js', 'MongoDB'],
-  tools: ['Git', 'JWT', 'Cloudinary', 'PDF.js'],
-  architecture: ['RESTful APIs', 'Responsive Design', 'Performance Optimization']
-}
+## 📫 Connect
+[Email](mailto:pradhyumnaatmakur1@gmail.com) • [LinkedIn](Your-LinkedIn-URL) • [GitHub](https://github.com/Pradhyumnaatmakur)
