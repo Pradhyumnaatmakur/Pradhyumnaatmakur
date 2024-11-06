@@ -11,4 +11,4 @@
 React.js • Node.js • MongoDB • Express.js • Tailwind CSS • Vite
 
 ## 📫 Connect
-[Email](mailto:pradhyumnaatmakur1@gmail.com) • [LinkedIn](Your-LinkedIn-URL) • [GitHub](https://github.com/Pradhyumnaatmakur)
+[Email](mailto:pradhyumnaatmakur1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/pradhyumnaatmakur/) • [GitHub](https://github.com/Pradhyumnaatmakur)
